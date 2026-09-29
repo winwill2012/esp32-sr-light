@@ -1,0 +1,6 @@
+dependencies:
+  idf: ">=6.0.0,<6.1.0"
+  espressif/esp-sr: "2.5.5"
+  espressif/led_strip: "3.0.3"
+  lvgl/lvgl: "8.3.11"
+

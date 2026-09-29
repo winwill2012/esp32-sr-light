@@ -1,0 +1,12 @@
+build/
+managed_components/
+sdkconfig
+sdkconfig.old
+__pycache__/
+tools/*.log
+.pio/
+tools/*.reference*
+tools/package-*.json
+tools/node_modules/
+tools/font/*.otf
+
